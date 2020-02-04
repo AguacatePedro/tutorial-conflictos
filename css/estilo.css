@@ -1,6 +1,7 @@
 body {
     background-color: #a0f0a0;
 }
+
 #contenedor {
     width: 80%;
     border: 1px solid #a0b0a0;
@@ -8,6 +9,13 @@ body {
     padding: 0 17px;
     background-color: white;
 }
+
 h2 {
-    border-bottom: 1px solid #a0b0a0; 
+    border-bottom: 1px solid #a0b0a0;
+}
+
+footer {
+    border-top: grey 1px;
+    height: 50px;
+    background-color: hotpink;
 }
